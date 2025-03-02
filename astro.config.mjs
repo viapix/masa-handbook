@@ -6,21 +6,16 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'MaSA UIUC',
 			social: {
 				github: 'https://github.com/withastro/starlight',
+				instagram: 'https://www.instagram.com/masauiuc',
+				facebook: 'https://www.facebook.com/groups/masa.uiuc'
 			},
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Pre-Arrival Guide',
+					autogenerate: { directory: 'prearrival' },
 				},
 			],
 		}),
