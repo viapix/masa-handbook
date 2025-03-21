@@ -1,9 +1,9 @@
 ---
-title: What Do I Bring To The U.S.?
-description: A reference page in my new Starlight docs site.
+title: Things to Bring to the U.S.
+description: A comprehensive list of items to consider bringing to the United States from Malaysia.
 ---
 
-> This page contains information ported from the [2021 MaSA Newcomer's Information Pack](https://docs.google.com/document/d/1lQi0d93SG3syWDzuw90HU_pi03YOJkvDqbKYcpjJ-Yw/edit), created by the former Head of Student Outreach, Aidi Wafi.
+> This page contains information ported from the [2021 MaSA Newcomer's Information Pack](https://docs.google.com/document/d/1lQi0d93SG3syWDzuw90HU_pi03YOJkvDqbKYcpjJ-Yw/edit), created by the former Head of Student Outreach, Aidi Wafi Zulkufle. If you need a printed version of this guide, then that document is your best option.
 
 In most cases, you would be coming here with one or two luggage bags and maybe one hand luggage. What do you *need* to bring? What nice things *should* you bring?
 What things are easily obtained in the U.S. that you don't *have* to bring? This page covers all that! 
@@ -103,7 +103,7 @@ Alternatively, you could buy new cables for your chargers when you get here. Som
 ##### Jackets, sweaters
 
 - A few extra would be good besides the one you bring on-hand
-- **As for winter clothes**, MaSA has yearly trips to Chicago and a shopping outlet near there to buy winter clothes. We do this after new students arrive, so if you don't have winter clothing or don't want to bring them from home, this is an option
+- As for **winter clothes**, MaSA has yearly trips to Chicago and a shopping outlet near there to buy winter clothes. We do this after new students arrive, so if you don't have winter clothing or don't want to bring them from home, this is an option
   
 ##### Traditional clothes
 
@@ -113,46 +113,7 @@ Alternatively, you could buy new cables for your chargers when you get here. Som
 
 - Keep it small and thin, you don't want it taking too much space. You can get a new one when you arrive, but in the meantime, better to have one than none
 
-#### Other Items
-
-We're putting miscellaneous things first because it's shorter than the food section, hahh.
-  
-##### For Muslims
-
-- Having a prayer mat is a good idea
-- You can't buy *kain pelikat* here, so bring one if you feel like you'd at least sometimes need it
-- Scarves & brooches are somewhat difficult to buy here besides online; shawls are available here, but are somewhat costly
-
-##### Keepsakes
-
-- Plushies, precious gifts, *bantal busuk*, photos... you know it!
-      
-##### Medicine
-
-- Inhalers & supplements come to mind (fish oil, vitamins, etc)
-- We recommend medicines for flu, fever, coughs, pain, sore throats, headaches, etc
-- Any pharmacy goods you've found useful will continue to be great when you're here. **Be sure to declare all medical goods!**
-  
-##### Spare glasses / contact lenses
-
-- A very very very very good idea. Get everything you can from Malaysia.
-- Glasses are relatively more expensive in the US. Bring your glasses prescription here too so you don't have to pay out if you do have to get a check-up.
-- As for contact lenses: Solutions are cheaper in Malaysia, but you don’t have to bring too much (three 350 mL bottles are good enough). A typical 300 ml bottle costs around $10 if we're not mistaken.
-  
-##### Stationery
-
-- You can always get your stock here. Below, we detail the differences between Malaysian stationery and US stationery.
-- Punchers
-  - The United States uses Letter size paper. Malaysian punchers are for A4, so... just don't bring one. Get one here.
-- Pens, pencils & erasers
-  - You can totally buy them in the US. If you bring mechanical pencils from Malaysia, there's no guarantee that the lead refills are identical to ours.
-- Rulers
-  - If you really want to avoid metric, a centimeter ruler from home wouldn't be a bad idea.
-  - The Union Bookstore does sell rulers with inch and centimeter measures though.
-- Correction tape
-  - You honestly don't need this. You wouldn't have the time to use it when note-taking, nor in exams. Plus, most assignments are done online now. 
-
-#### Food
+### Food
 
   **DECLARE ALL FOOD YOU BRING.** Whatever food you bring, double-check with airport guidelines to make sure they're actually allowed to bring.
   
@@ -163,36 +124,74 @@ We're putting miscellaneous things first because it's shorter than the food sect
   
   [Check this section to know what you *can* get here.](#spare-glasses--contact-lenses)
   
-##### Kuih Raya
+#### Kuih Raya
 
 - If you haven't finished them all, anyways!
 - If you *really* want to maximize how much kuih you bring, coordinate with your friends! Then you can make sure everyone's bringing a different variety of goods.
 - You *are* going to be travelling a good amount, so it's best not to bring any kuih that's too fragile... nanti you sampai UIUC bukak bukak kuih semperit pecah pecah, hancur hati
 
-##### Instant paste or Bouillon cubes
+#### Instant paste or Bouillon cubes
 
 - It's somewhat difficult or pricey to get halal stock cubes and curry spices here.
   - Adabi curry spices (like curry or *kurma*)
   - Maggi instant cubes
 
-##### Instant drinks, tea bags, etc
+#### Instant drinks, tea bags, etc
 
 - Milo, Horlicks, Lipton tea, Vico, etc.
 - 1kg is typically enough, unless you drink a *lot*.
 
-##### *Serunding ayam / serunding ikan bilis*
+#### *Serunding ayam / serunding ikan bilis*
 
 - **BEEF PRODUCTS ARE NOT ALLOWED IN CUSTOMS**. Do not try to bring them. People have been brought to court for this.
-- Chicken and fish is absolutely fine, they're great to go with extra rice!
+- Chicken and fish should be fine though! Check with your airline as always.
   
-##### Dried anchovies / *ikan bilis*
+#### Dried anchovies / *ikan bilis*
 
-- They're expensive here. Really. If you plan to cook recipes that use them, definitely consider bringing dried anchovies from home.
+- Dried anchovies are very pricey here, and come in small quantities. If you plan to cook with them, consider bringing dried anchovies from home.
 
-##### Brahim products (not as necessarry)
+#### Brahim products (not as necessarry)
 
-##### Belacan
+#### Belacan
 
-##### Tomyam paste, *kerisik* (fried coconut shavings), instant powders, curry powders
+#### Tomyam paste, *kerisik* (fried coconut shavings), instant powders, curry powders
 
-- You *can* get them here, but they likely won't taste similar to what we get in Malaysia.
+- You *can* get them here, but they probably won't taste similar to what we get in Malaysia.
+
+### Miscellaneous
+  
+#### For Muslims
+
+- Bringing a prayer mat is a good idea
+- You can't buy *kain pelikat* here, so bring one if you feel like you'd at least sometimes need it
+- Hijabs & brooches are somewhat difficult to buy here besides online; shawls are available here, but are costly
+
+#### Keepsakes
+
+- Consider bringing something that reminds you of home!
+- Plushies, precious gifts, *bantal busuk*, photos, whatever you can think of!
+      
+#### Medicine
+
+- Inhalers & supplements come to mind (fish oil, vitamins, etc)
+- We recommend medicines for flu, fever, coughs, pain, sore throats, headaches, etc
+- Any pharmacy goods you've found useful will continue to be great when you're here. **Be sure to declare all medical goods!**
+  
+#### Spare glasses / contact lenses
+
+- Get everything you can from Malaysia.
+- Glasses are relatively more expensive in the US unless you buy them online. **Bring your glasses prescription here** so you don't have to pay for a an eye check-up.
+- As for contact lenses: Solutions are cheaper in Malaysia, but you don’t have to bring too much (three 350 mL bottles are good enough). A typical 300 ml bottle costs around $10 if we're not mistaken.
+  
+#### Stationery
+
+- You can always get your stock here. Below, we detail the differences between Malaysian stationery and US stationery.
+- Punchers
+  - The United States uses Letter-sized paper. Malaysian punchers are for A4 paper, so just don't bring one. Get one here.
+- Pens, pencils & erasers
+  - You can totally buy them in the US. If you bring mechanical pencils from Malaysia, there's no guarantee that the lead refills are identical to ours.
+- Rulers
+  - If you really want to avoid metric, a centimeter ruler from home wouldn't be a bad idea.
+  - The Union Bookstore does sell rulers with inch and centimeter measures though.
+- Correction tape
+  - You honestly don't need this. You wouldn't have the time to use it when note-taking, nor in exams. Plus, most assignments are done online now. 

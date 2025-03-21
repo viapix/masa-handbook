@@ -1,9 +1,11 @@
 ---
-title: "The Malaysian Student Association at the University of Illinois at Urbana-Champaign (MaSA)"
-description: Hi
+title: "Welcome to MaSA!"
+description: The front page for the MaSA UIUC handbook
 ---
 
-This book aims primarily as a general guideline for students who have accepted their admission into the University of Illinois at Urbana Champaign (UIUC for short). Secondarily, we're also working on detailing life at the university as Malaysians in this book for those who are interested in the university, but do not know much. **This book is still heavily a work in progress, so we're prioritizing writing the pre-arrival sections!**
+![awa](@assets/banner.png)
+
+We are the Malaysian Student Association of UIUC, or MaSA UIUC for short. We are a [registered student organization](https://one.illinois.edu/MalaysianStudentAssociation/) primarily consisting of Malaysian international students, but all are welcome to our activities! Check out our [instagram](https://www.instagram.com/masauiuc) for an up-to-date look into our recent events.
 
 A printable version of this book is being worked on. In the meantime, [this older Google Doc that we have based this site on](https://docs.google.com/document/d/1lQi0d93SG3syWDzuw90HU_pi03YOJkvDqbKYcpjJ-Yw/edit) should have sufficient information to be still usable offline.
 
@@ -20,3 +22,7 @@ We primarily aim to enrich the living experience in UIUC for Malaysians in Urban
 We host events as frequently as every week, where Malaysians get together to hang out, play, chat, and eat! Our events range from larger thematic ones like our Mid-Autumn Festival, Deepavali, and Chinese New Year celebration events, to smaller ones like weekly boardgame nights and cookouts. We only request a $15 fee every semester, and in return we grant you access to all events we host, almost all of which come with good free food; trust us, we make it very worthwhile.
 
 Have a question for us? [Here's the email link again!](mailto:masauiuc@gmail.com)
+
+## About this e-book
+
+This book started in 2022 by the former Vice President of MaSA, Afnan Dzaharudin, for the sole purpose of having an online resource for incoming Malaysian students. Now in 2025, we have returned the guide with updated information and a modern site-generation framework, and opened this book up to be used for more than just guides.

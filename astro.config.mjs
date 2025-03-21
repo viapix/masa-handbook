@@ -14,8 +14,8 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Pre-Arrival Guide',
-					autogenerate: { directory: 'prearrival' },
+					label: 'Incoming Students Guide',
+					autogenerate: { directory: 'newstudents' },
 				},
 			],
 		}),
